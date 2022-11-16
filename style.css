@@ -29,3 +29,9 @@ q {
     border-color: firebrick;
     padding: 3px;
    }
+.neighbors {
+    border-color: blue;
+}
+.farmer{
+    border-color: blueviolet;
+}
