@@ -2,7 +2,14 @@ body {
     font-family: serif;
     font-size: medium;
     font-stretch: semi-expanded;
-    color: blueviolet;
+    color: rgb(91, 18, 141);
     line-height: normal;
 }
 
+a:link {
+color: crimson;
+}
+
+a:visited {
+color: rgb(244, 103, 51);
+}
