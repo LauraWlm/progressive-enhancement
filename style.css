@@ -1,6 +1,8 @@
 body {
     font-family: serif;
     font-size: medium;
+    font-stretch: semi-expanded;
     color: blueviolet;
     line-height: normal;
 }
+
