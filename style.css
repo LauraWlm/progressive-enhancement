@@ -1,6 +1,5 @@
 body {
 background-image: linear-gradient(0deg, rgba(239, 245, 212, 0.5) 0%, rgba(239, 221, 53, 0.5) 100%), url(https://img.freepik.com/vecteurs-libre/concept-medical-hexagonal-propre-blanc_1017-29801.jpg?w=1380&t=st=1668609149~exp=1668609749~hmac=66e40b0d93ac0469cdc850d2ca4f0f521b6c4d61af687ac0def4233f138c9387);
-
 background-size: cover;
 background-repeat: no-repeat;
 width: 90%;
@@ -23,13 +22,10 @@ a:link {
   }
   
 q {
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-size: 160%;
+    margin: 10px 50px 20px;
+    font-style: italic;
     background-color: rgb(234, 233, 233);
-    border: 3px solid;
+    border-left: 3px solid;
     border-color: firebrick;
-    padding: 30px;
+    padding: 3px;
    }
