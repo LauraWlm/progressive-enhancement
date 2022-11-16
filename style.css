@@ -1,4 +1,8 @@
 body {
+    width: 90%;
+    background-color: linear-gradient(#def399, #e0f02b);   
+    margin-left: 80px;
+    margin-right:30px;
     font-family: serif;
     font-size: medium;
     font-stretch: semi-expanded;
@@ -6,10 +10,23 @@ body {
     line-height: normal;
 }
 
+/* unvisited link */
 a:link {
-color: crimson;
-}
-
-a:visited {
-color: rgb(244, 103, 51);
-}
+    color: red;
+  }
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+q {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 160%;
+    background-color: rgb(234, 233, 233);
+    border: 3px solid;
+    border-color: firebrick;
+    padding: 30px;
+   }
