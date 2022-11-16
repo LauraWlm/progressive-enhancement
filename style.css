@@ -11,6 +11,9 @@ font-stretch: semi-expanded;
 color: rgb(91, 18, 141);
 line-height: normal;
 }
+header > h1 {
+    background-color: yellow;
+}
 
 /* unvisited link */
 a:link {
@@ -34,4 +37,13 @@ q {
 }
 .farmer{
     border-color: blueviolet;
+}
+
+.good{
+    text-transform: capitalize;
+    color: green;
+}
+.bad{
+    text-transform: capitalize;
+    color: red;
 }
